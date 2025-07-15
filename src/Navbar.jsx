@@ -52,7 +52,7 @@ export default function Navbar() {
 
         <div className="col-lg-6 text-center mt-4 mt-lg-0">
           <div className="position-relative">
-            <img src="../public/img/header-bg.png" alt="Person" className="img-fluid" />
+            <img src="./img/header-bg.png" alt="Person" className="img-fluid" />
           </div>
         </div>
       </div>
