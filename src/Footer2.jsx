@@ -33,10 +33,10 @@ export default function Footer2() {
       <div class="col-6 col-md-3 mt-4 mt-md-0">
         <h6><strong>Follow</strong></h6>
         <div class="d-md-flex d-block  social-icons mt-2">
-          <a href="#"><img src="../public/img/icon.png" alt="" /></a>
-          <a href="#"><img src="../public/img/icon2.png" alt="" /></a>
-          <a href="#"><img src="../public/img/icon3.png" alt="" /></a>
-          <a href="#"><img src="../public/img/icon4.png" alt="" /></a>
+          <a href="#"><img src="./img/icon.png" alt="" /></a>
+          <a href="#"><img src="./img/icon2.png" alt="" /></a>
+          <a href="#"><img src="./img/icon3.png" alt="" /></a>
+          <a href="#"><img src="./img/icon4.png" alt="" /></a>
         </div>
       </div>
     </div>

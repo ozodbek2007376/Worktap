@@ -9,11 +9,11 @@ export default function Section() {
   <h5 class="my-5 fw-bold">Топ фрилансеров</h5>
   <div class="row g-4">
 
-    <SectionCard imgnam="../public/img/main.png" ism="Марина Королёва" kasbi="Разработчик PHP" ishlashi="Выполнено проектов: 65" />
-    <SectionCard imgnam="../public/img/main2.png" ism="Семён Сергеев" kasbi="Копирайтер" ishlashi="Выполнено проектов: 104" />
-    <SectionCard imgnam="../public/img/main3.png" ism="Ангелина Сорокина" kasbi="Дизайнер сайтов" ishlashi="Выполнено проектов: 25" />
-    <SectionCard imgnam="../public/img/main4.png" ism="Никита Зайцев" kasbi="Маркетолог" ishlashi="Выполнено проектов: 144" />
-    <SectionCard imgnam="../public/img/main5.png" ism="Наталья Захарова" kasbi="Motion дизайнер" ishlashi="Выполнено проектов: 71" />
+    <SectionCard imgnam="./img/main.png" ism="Марина Королёва" kasbi="Разработчик PHP" ishlashi="Выполнено проектов: 65" />
+    <SectionCard imgnam="./img/main2.png" ism="Семён Сергеев" kasbi="Копирайтер" ishlashi="Выполнено проектов: 104" />
+    <SectionCard imgnam="./img/main3.png" ism="Ангелина Сорокина" kasbi="Дизайнер сайтов" ishlashi="Выполнено проектов: 25" />
+    <SectionCard imgnam="./img/main4.png" ism="Никита Зайцев" kasbi="Маркетолог" ishlashi="Выполнено проектов: 144" />
+    <SectionCard imgnam="./img/main5.png" ism="Наталья Захарова" kasbi="Motion дизайнер" ishlashi="Выполнено проектов: 71" />
 
 
 

@@ -7,7 +7,7 @@ export default function Navbar() {
   <div className="navbar navbar-expand-lg bg-white shadow-sm">
     <div className="container">
       <a className="navbar-brand" href="#">
-        <img src="img/logo.png" alt="" height="30" /> 
+        <img src="./img/logo.png" alt="" height="30" /> 
       </a>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span className="navbar-toggler-icon"></span>

@@ -11,15 +11,15 @@ export default function Footer() {
       <div className="col-lg-6">
         <div className="d-flex flex-column gap-3">
           <div className="benefit-box">
-            <img src="../public/img/karta.png" className="icon-img" alt="" />
+            <img src="./img/karta.png" className="icon-img" alt="" />
             <div>Оплачивайте с р/с или карты компании</div>
           </div>
           <div className="benefit-box">
-            <img src="../public/img/karta2.png" className="icon-img" alt="" />
+            <img src="./img/karta2.png" className="icon-img" alt="" />
             <div>Экономьте до 87% бюджета на фрилансе</div>
           </div>
           <div className="benefit-box">
-            <img src="../public/img/karta3.png" className="icon-img" alt="" />;
+            <img src="./img/karta3.png" className="icon-img" alt="" />;
             <div>Экономьте до 75% времени на решении фриланс задач</div>
           </div>
         </div>

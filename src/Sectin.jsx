@@ -10,17 +10,17 @@ export default function Sectin() {
 
   <div className="row text-center g-4">
     <div className="col-md-4">
-      <img src="../public/img/group.png" className="icon-img mb-3" alt="" />
+      <img src="./img/group.png" className="icon-img mb-3" alt="" />
       <h6 className="fw-bold">Выберите услугу</h6>
       <p className="text-muted">В супермаркете WorkTap представлен широкий выбор услуг от квалифицированных специалистов.</p>
     </div>
     <div className="col-md-4">
-      <img src="../public/img/group2.png" className="icon-img mb-3" alt="" />
+      <img src="./img/group2.png" className="icon-img mb-3" alt="" />
       <h6 className="fw-bold">Оплатите</h6>
       <p className="text-muted">Деньги будут перечислены продавцу после того, как он выполнит работу, и вы её одобрите.</p>
     </div>
     <div className="col-md-4">
-      <img src="../public/img/group3.png" className="icon-img mb-3" alt="" />
+      <img src="./img/group3.png" className="icon-img mb-3" alt="" />
       <h6 className="fw-bold">Получите результат</h6>
       <p className="text-muted">Наш супермаркет гарантирует возврат средств в случае невыполнения заказа.</p>
     </div>
